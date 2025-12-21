@@ -8,7 +8,7 @@ import {
 //const MODEL_NAME = "gemini-1.0-pro";
 const MODEL_NAME = "gemini-2.5-flash-lite";
 
-const API_KEY = "AIzaSyD5kXgaQPCUiiznGtdxZlpv1CSWXDoimq0";
+const API_KEY = "AIzaSyDgbcoV0Wz5FrVEcQGMGBunlWRCZG4LaTs";
 
 
 async function runChat(prompt) {

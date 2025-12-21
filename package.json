@@ -1,6 +1,6 @@
 {
   "name": "gem",
-  "homepage": "https://ebispaul07.github.io/Gemini-clone/",
+  "homepage": "https://ebispaul07.github.io/Gemini_apk/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,7 +15,8 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.11.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
